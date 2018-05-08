@@ -298,6 +298,8 @@ What types of resources would you like to see on this site?
 
 What would help you do your research better?
 
+**Contact me at @[CivicAngela](https://twitter.com/CivicAngela)**
+
 ---
 
 class: center, middle
@@ -308,4 +310,4 @@ Slides created via the R package [xaringan](https://github.com/yihui/xaringan) b
 
 Slides available at  <font style="text-transform: lowercase;"><http://bit.ly/rspatial-ecosystem></font> <br>
 
-Contact me at @[CivicAngela](https://twitter.com/CivicAngela)
+Source code for these slides can be found on [my Github](https://github.com/angela-li/rspatial-ecosystem).
