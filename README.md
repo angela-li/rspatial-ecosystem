@@ -2,7 +2,7 @@
 
 I gave a talk to my fellow researchers at the [Center for Spatial Data Science](https://spatial.uchicago.edu/) on May 8, 2018 about the new `sf` package, and my sense of the evolving spatial data ecosystem in R. Here are the slides from the talk!
 
-[![](images/slide-title.png)](https://angela-li.github.io/slides/2018-05-08/rspatial-ecosystem)
+[![](images/slide-title.png)](https://angela-li.github.io/slides/2018-05-08/rspatial-ecosystem.html)
 
 Get in contact
 =================
